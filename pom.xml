@@ -10,7 +10,7 @@
 
   <scm>
      <connection>scm:git:ssh://git@github.com/scenthound/hello-world.git</connection>
-     <developerConnection>scm:git:ssh://git@github.com:scenthound/hello-world.git<developerConnection>
+     <developerConnection>scm:git:ssh://git@github.com:scenthound/hello-world.git</developerConnection>
   </scm>
   
   <dependencies>
